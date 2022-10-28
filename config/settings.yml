@@ -1,0 +1,3 @@
+plugins:
+  clerk_enabled:
+    default: false
